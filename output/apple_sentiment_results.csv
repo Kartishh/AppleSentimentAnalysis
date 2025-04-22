@@ -1,0 +1,9 @@
+"","text","product","anger","anticipation","disgust","fear","joy","sadness","surprise","trust","negative","positive"
+"1","I love my new iPhone! The camera is amazing.","iPhone",0,0,0,0,1,0,0,0,0,1
+"2","Macbook battery life is terrible.","Macbook",2,0,1,1,0,1,0,0,2,0
+"3","AirPods are worth every penny.","AirPods",0,0,0,0,0,0,0,0,0,1
+"4","iPad software updates make it slower.","iPad",0,0,0,0,0,0,0,0,0,0
+"5","Apple customer service is the best!","Service",0,0,0,0,0,0,0,0,0,1
+"6","The new iOS has too many bugs.","iOS",0,0,0,0,0,0,0,0,0,0
+"7","Apple products are overpriced but reliable.","General",1,0,1,0,0,1,0,1,1,1
+"8","My Apple Watch saved my life with heart rate monitoring.","Watch",0,1,0,1,0,0,0,0,0,0
